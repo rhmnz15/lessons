@@ -1,0 +1,51 @@
+1.Brifing general
+1.1. Perkenalan moderator dan runner
+1.2. Perkenalan Lumintu dan produk yang sedang dikembangkan (Prokidz, CodeCation, Undergraduate dan inCareear)
+1.3 Perkenalan Observer yang akan mendampingi setiap responden ( ditekankan bahwa observer tidak akan mengajari Responden tentang apa yang harus diklik, hanya bisa memberi arahan general.
+1.4 Disetiap sesi MC harus bertanya kepada Responden "Apakah ada pertanyaan?" untuk menghidari Responden bertanya ke Observer
+
+2.Test Case Modul Account
+2.1. Mengarahkan secara umum untuk mengakses
+2.2.test case Login Mentor
+2.3.test
+2.4. Setiap selesai memberi arahan harus disertain dengan bertanya kepada Responden "Apakah ada pertanyaan?" untuk menghidari Responden bertanya ke Observer.
+2.5 Dikasih tau waktu yang diberikan untuk test adalah 15 menit
+2.6 Dikasih tau kalau waktu dah habis agar bisa masuk ke test case modul selanjutnya
+
+
+3.Test Case Modul Lessons
+3.1  Diberi arahan setelah test case login, Responden akan masuk ke test case Materi, dimana dihalaman ini responden diminta untuk menambahkan topik pembelajaran dan bobot topiknya 
+3.2 Kemudian menambahkan materi pembelajaran dalam topik yang sudah ada dengan jadwal pukul 9 - 12. Materi dapat yang diupload dapat dipilih secara acak melalui asset yang sudah kami siapkan. 
+3.3 Setelah selesai responden diarahkan untuk mengedit submodul terutama mengedit dengan menambahkan file.
+3.4 Diarahkan ke halaman utama dan diarahkan bahwa mentor dapat melihat detail dari topik pembelajaran dan dapat mendownload materi yang sudah ditambahkan.
+3.5 Diarahkan masuk ke halaman Awal Materi untuk selanjutnya dapat menambahkan tugas dari Materi yang sudah diupload
+3.6 Dikasih tau waktu yang diberikan untuk test adalah 15 menit
+3.7 Dikasih tau kalau waktu dah habis agar bisa masuk ke test case modul selanjutnya
+
+4.Test Case Modul Assigment
+4.1 Diberi arahan setelah menambahkan materi maka responden dapat memberi tugas dari materi yang sudah di tambahkan ke sistem
+4.2 Diberi arahan untuk dapat menambahkan tugas untuk murid yang diampu dan memberikan deadline secara bebas untuk pengumpulan tugas
+4.3 Setelah berhasil menambahkan tugas diberi arahan untuk melakukan edit jadwal menjadi hari ini jam 9 - 12 siang
+4.4 Dikasih tau waktu yang diberikan untuk test adalah 15 menit
+4.5 Dikasih tau kalau waktu dah habis agar bisa masuk ke test case modul selanjutnya
+
+5.Test Case Modul Concultation
+5.1 Diberi arahan sembari menunggu murid mengerjakan tugas responden dapat beralih ke halaman konsultasi untuk mengisi jadwal ketersediaan konsultasi, dapat diisi dengan hari ini jam 9 - 12 siang
+
+6.Break
+6.1 MC merangkum apa yang sudah dikerjakan sembari menunggu murid menyelesaikan tugas yang sudah diberikan
+
+*Masuk Ke test case Modul Assigment*
+6.2 Mengarahkan untuk kembali ke Halaman Penugasan untuk kemudian memberikan nilai pada murid yang diampu
+
+*Masuk Ke test case Modul Concultation*
+6.3 Setelah memberi nilai responden dapat mengecek apakah sudah ada murid yang mengajukan konsultasi
+6.4 Responden dapat menerima 1 dan menolak 1 murid
+6.5 Untuk responden yang hanya memiliki 1 murid harap menerima saja murid untuk konsultasi
+6.6 Sesi live konsul, diberi arahan bahwa mentor dapat melakukan sesi live chat dengan muridnya untuk membahas materi yang diajarkan
+
+7. Penutupan
+
+
+
+ 
